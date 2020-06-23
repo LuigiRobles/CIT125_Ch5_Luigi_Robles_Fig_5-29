@@ -40,8 +40,5 @@ int main()
 	cout << "Amount owed after any discount and shipping: "
 	<< amtOwed << endl;
 
-	return 0;
-	// end of main function
-
-}
-
+	return 0;	
+} // end of main function
